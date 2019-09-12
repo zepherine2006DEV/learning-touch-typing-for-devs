@@ -6,8 +6,8 @@ A collection of touch typing exerices for daily practice and improvements.
 
 ## Instructions
 
-1. Clone this project.
-2. Choose an exercise, randomly.
+1. Clone or fork this project (optional).
+2. Choose an exercise from the Exercises folder, randomly.
 3. Copy the text into your favourite text editor.
 4. Follow the instructions in the exercise.
 5. Each exercise should take no more than 10 minutes.
@@ -21,3 +21,5 @@ Always rest your hands on the keyboard in a starting position, with your index f
 Between each character re-center your hands in the starting postion. The aim is not to go quickly but to be accurate to hit keys cleanly.
 
 Some code editors will try and auto-complete some of the characters, so this works best in a simple editor such as Notepad.
+
+I find it useful to vocalise what I'm doing, speaking the name of the character as I press it, to help commit to memory.
