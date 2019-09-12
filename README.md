@@ -21,7 +21,3 @@ Always rest your hands on the keyboard in a starting position, with your index f
 Between each character re-center your hands in the starting postion. The aim is not to go quickly but to be accurate to hit keys cleanly.
 
 Some code editors will try and auto-complete some of the characters, so this works best in a simple editor such as Notepad.
-
-## Feedback
-
-I'd love to get your feedback if you get value from these exercises.
