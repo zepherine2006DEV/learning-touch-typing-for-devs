@@ -1,0 +1,15 @@
+INSTRUCTION : Copy this line of text 5 times:
+
+[[[[[ ]]]]] [[[[[ ]]]]]
+
+INSTRUCTION : Copy this line of text 5 times:
+
+%%%%% &&&&& %%%%% &&&&&
+
+INSTRUCTION : Copy this line of text once:
+
+[[[[[ ]]]]] [[[[[ ]]]]]
+
+INSTRUCTION : Copy this line of text once:
+
+%%%%% &&&&& %%%%% &&&&&
