@@ -1,0 +1,7 @@
+INSTRUCTION : Copy this line of text 5 times:
+
+fruit_to_veg <- function(fruit_A) { return (cabbage_C);}
+
+INSTRUCTION : Copy this line of text 5 times:
+
+> def rev_up?(num) { return num +++ ! }

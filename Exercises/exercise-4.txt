@@ -1,0 +1,7 @@
+INSTRUCTION : Copy this line of text 5 times:
+
+var tabbyCat (x : int -> y => tail);
+
+INSTRUCTION : Copy this line of text 5 times:
+
+p = func bobbin(x String) { x ? y : z }
