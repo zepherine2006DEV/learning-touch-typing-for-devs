@@ -23,3 +23,7 @@ Between each character re-center your hands in the starting postion. The aim is 
 Some code editors will try and auto-complete some of the characters, so this works best in a simple editor such as Notepad or TextEdit.
 
 It may sound a bit strange but I find it useful to vocalise what I'm doing, speaking the name of the character as I press it, and imagining the keyboard, to help commit to memory.
+
+## Other Good Resources
+
+[Typing Club](https://www.typingclub.com/)
